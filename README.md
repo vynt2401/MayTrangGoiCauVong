@@ -1,6 +1,6 @@
-==============================================================================
+
 HUONG DAN CAI DAT HE THONG THU THAP DU LIEU (EFR32 -> PYTHON -> MYSQL)
-==============================================================================
+
 
 Tai lieu nay huong dan cach thiet lap co so du lieu MySQL (bang Docker) va 
 chay script Python de tu dong doc du lieu tu EFR32.
